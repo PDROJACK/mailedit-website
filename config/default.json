@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "CageTheElephant",
+    "db":"mongodb://localhost/mailedit-website",
+    "port": "3001"
+}
